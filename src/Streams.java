@@ -14,6 +14,7 @@ public class Streams {
 		names.add("Priya");
 		names.add("Brindha");
 		names.add("Brindha1");
+		names.add("Priya2");
 		int count=0;
 		for(int i=0;i<names.size();i++) {
 		String actual=names.get(i);
