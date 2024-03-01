@@ -32,6 +32,7 @@ public class Streams {
 			names.add("Supriya");
 			names.add("Amani");
 			names.add("Priya");
+			names.add("Priya2");
 		Long c=	names.stream().filter(s->s.startsWith("A")).count();
 		System.out.println(c);
 		}
